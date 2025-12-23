@@ -1,0 +1,8 @@
+function linearSearch(a, target) {
+    for (let i = 0; i < a.length; i++) {
+        if (a[i] === target) {
+            return i;
+        }
+    }
+    return -1;
+}
