@@ -1,0 +1,16 @@
+{
+  "name": "dsa_js_sol",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000S\u0000A\u0000_\u0000J\u0000S\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon DS/Singly_Linked_List.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
